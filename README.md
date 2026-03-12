@@ -60,9 +60,8 @@ tensorflow
 scikit-learn
 pandas
 numpy
-matplotlib
 streamlit
 tensorboard
-pickle
+```
 
-'''
+---
