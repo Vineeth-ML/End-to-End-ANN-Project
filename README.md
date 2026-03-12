@@ -53,15 +53,3 @@ Hidden Layer 1  →  64 Neurons, ReLU Activation
 Hidden Layer 2  →  32 Neurons, ReLU Activation
 Output Layer  →  1 Neuron, Sigmoid Activation
 
-
-## 📁 Requirements
-```
-tensorflow
-scikit-learn
-pandas
-numpy
-streamlit
-tensorboard
-```
-
----
